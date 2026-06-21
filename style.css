@@ -1,0 +1,34 @@
+body{
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:linear-gradient(to right,#1e3c72,#2a5298);
+    font-family:Arial,sans-serif;
+}
+
+.container{
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    text-align:center;
+    width:350px;
+}
+
+h1{
+    color:#2a5298;
+}
+
+#quote{
+    font-size:20px;
+    margin:20px 0;
+}
+
+button{
+    padding:10px 20px;
+    font-size:18px;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+}
